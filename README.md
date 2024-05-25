@@ -2,8 +2,7 @@
 
 * name： wenyi / 文艺
 * sign： out of interest/ 兴趣使然
-
-![](https://komarev.com/ghpvc/?username=wenyi401)
+* ![](https://komarev.com/ghpvc/?username=wenyi401)
 
 ### 🖼️Stats
 
@@ -36,7 +35,7 @@
     </tr>
 </table>
 
-### Skill
+### 🗃️Skill
 
 <p align="center">
     <picture>
